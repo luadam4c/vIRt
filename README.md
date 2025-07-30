@@ -39,6 +39,8 @@ julia ../../prog/irt.jl pb_v_rast_intra
 
 julia ../../prog/irt.jl pb_v_rast_no_intra
 
+cd ..
+
 ../genfig/scripts_fig/vtfig_b.com
 
 ../genfig/scripts_fig/rasit_b.com
