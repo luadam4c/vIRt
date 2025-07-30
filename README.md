@@ -15,6 +15,16 @@ julia compiler,
 XMGrace
 LaTeX
 
+Packages needed:
+Formatting
+Printf
+SmoothingSplines
+Statistics
+Polynomials
+DSP
+NLsolve
+StatsBase
+
 # Generate data files used for the figures in the article:
 
 cd datfig
