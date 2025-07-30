@@ -33,6 +33,8 @@ julia ../genfig/gen_input_files.jl
 
 # Generate figure 6A,B (and more):
 
+cd dir_here
+
 julia ../../prog/irt.jl pb_v_rast_intra
 
 julia ../../prog/irt.jl pb_v_rast_no_intra
